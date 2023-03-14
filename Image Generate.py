@@ -6,9 +6,9 @@ from requests.structures import CaseInsensitiveDict
 import json
 from PIL import Image
 
-openai.api_key = ("")
+openai.api_key = ("Your API KEY")
 model = "image-alpha-001"
-resolutions = ["512x512", "1024x1024", "2048x2048"]
+resolutions = ["256x256", "512x512", "1024x1024"]
 
 class App:
     def __init__(self, master):
