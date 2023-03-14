@@ -9,10 +9,11 @@ This is a Python script for generating images using the OpenAI API. The script u
 - requests
 - json
 - Pillow
+- openai
 
 ## Setup
 
-1. Install the required libraries by running `pip install tkinter requests Pillow`
+1. Install the required libraries by running `pip install tkinter requests Pillow openai`
 2. Obtain an API key from the OpenAI website and replace `"Your API KEY"` in the code with your API key.
 
 ## Usage
