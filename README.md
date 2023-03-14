@@ -14,7 +14,7 @@ This is a Python script for generating images using the OpenAI API. The script u
 ## Setup
 
 1. Install the required libraries by running `pip install tkinter requests Pillow openai`
-2. Obtain an API key from the OpenAI website and replace `"Your API KEY"` in the code with your API key.
+2. Obtain an API key from the [OpenAI website](https://platform.openai.com/account/api-keys) and replace `"Your API KEY"` in the code with your API key.[OpenAI website](https://platform.openai.com/account/api-keys)
 
 ## Usage
 
