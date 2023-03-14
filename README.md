@@ -27,7 +27,7 @@ This is a Python script for generating images using the OpenAI API. The script u
 
 ## User Interface
 
-![Image of User Interface](UI.PNG)
+![Image of User Interface](GUI.PNG)
 
 ## License
 
