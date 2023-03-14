@@ -1,4 +1,4 @@
-# OpenAI Image Generator (With UI)
+# OpenAI Image Generator (With GUI)
 
 This is a Python script for generating images using the OpenAI API. The script uses tkinter for building the GUI and the requests and json libraries for making requests and handling responses.
 
