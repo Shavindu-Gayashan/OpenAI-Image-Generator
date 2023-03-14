@@ -24,6 +24,10 @@ This is a Python script for generating images using the OpenAI API. The script u
 5. Click the `"Generate Images"` button
 6. The generated images will be saved in the current working directory with filenames `image_1.jpg`, `image_2.jpg`, and so on.
 
+## User Interface
+
+![This is an image]()
+
 ## License
 
 This script is licensed under the **MIT License**. Feel free to use and modify it as you wish.
